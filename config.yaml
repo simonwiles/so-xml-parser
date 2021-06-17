@@ -1,0 +1,10 @@
+row:
+  <entity>: badges
+  <primary_key>: "@Id"
+  <fields>:
+    "@Id": id
+    "@UserId": user
+    "@Name": name
+    "@Date": date
+    "@Class": class
+    "@TagBased": tag-based
