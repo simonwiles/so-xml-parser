@@ -1,1 +1,1 @@
-git+git://github.com/simonwiles/xmltotabular@support-tabular-xml#egg=xmltotabular
+xmltotabular~=0.8.0

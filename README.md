@@ -1,8 +1,6 @@
 # so-xml-parser (demo)
 
-- Note: this depends on unreleased updates to `xmltotabular` (still needs more testing), which is why [`requirements.txt`](requirements.txt) references a branch on GitHub, and not the release on PyPI.
-
-- Therefore recommend installing with `pipenv install`.
+- Installing with `pipenv install` is recommended.
 
 - Output is as follows (see [`config.yaml`](config.yaml) for the, er, config).
 
